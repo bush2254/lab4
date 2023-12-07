@@ -71,7 +71,7 @@ namespace lab4
                         case 10: K = "десять"; break;
                         case 11: K = "одинадцать"; break;
                         case 12: K = "двенадцать"; break;
-                        case 13: K = "десяттринадцать"; break;
+                        case 13: K = "тринадцать"; break;
                         case 14: K = "четырнадцать"; break;
                         case 15: K = "пятнадцать"; break;
                         case 16: K = "шестнадцать"; break;
